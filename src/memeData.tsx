@@ -1,0 +1,31 @@
+export default{
+    "success": true,
+    "data":{
+        "memes":[
+            {
+                "id":"93160967",
+                "url":'https://i.imgflip.com/2gnnjh.jpg',
+                "width":950,
+                "heigth":1356,
+            },
+            {
+                "id":"103250257",
+                "url":'https://i.imgflip.com/44eggm.png',
+                "width":680,
+                "heigth":667,
+            },
+            {
+                "id":"16464531",
+                "url":'https://i.imgflip.com/1bij.jpg',
+                "width":600,
+                "heigth":600,
+            },
+            {
+                "id":"181913649",
+                "url":'https://i.imgflip.com/1jwhww.jpg',
+                "width":1200,
+                "heigth":1200,
+            }
+        ]
+    }
+} 

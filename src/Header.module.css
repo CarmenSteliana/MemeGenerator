@@ -1,0 +1,48 @@
+.header {
+    display: flex;
+    background: linear-gradient(90deg, #672280 1.18%, #A626D3 100%);
+    justify-content: space-between;
+    align-items: center;
+    max-width: 34.375rem;
+    max-height: 4.06rem;
+}
+
+.meme-generator {
+    display: flex;
+    align-items: center;
+    padding-left: 1.25rem;
+}
+
+.logo {
+    width: 1.95rem;
+    height: 1.6rem;
+}
+
+.title-meme {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 1.3rem;
+    line-height: 1.5rem;
+    letter-spacing: -0.1em;
+    font-family: 'Karla';
+
+    color: #FFFFFF;
+}
+
+.project3 {
+    /*width: 11.81rem;
+    height: 0.9rem; */
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 0.75rem;
+    line-height: 0.9rem;
+    text-align: right;
+
+    color: #FFFFFF;
+
+}
+
+.titleProject3 {
+    padding-right: 2.3rem;
+}
